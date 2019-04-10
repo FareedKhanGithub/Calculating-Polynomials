@@ -29,6 +29,7 @@ C++ program built to do calculations of polynomials.
 
 
 #Install
+
   --C++
    
 #How to Run
@@ -41,7 +42,7 @@ C++ program built to do calculations of polynomials.
 
 
 #Results
-	The results should show this
+	The results should look like this
 		  
 	input
 	The values of the vector u are --  2 4 1                                                                                                                                                                                         
