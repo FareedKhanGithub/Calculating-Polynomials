@@ -35,13 +35,14 @@ C++ program built to do calculations of polynomials.
 #How to Run
   --g++ -o test Polynomial.cpp Polynomial.h test.cpp
   
-  -- ./test          //to see the results
+  -- ./test                     //to see the results
 
   --In the test.cpp, file you can input your own numbers.
 
 
 
 #Results
+	
 	The results should look like this
 		  
 	input
